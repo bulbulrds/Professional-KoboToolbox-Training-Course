@@ -31,6 +31,9 @@ The course covers everything from creating your first digital questionnaire to d
 
 Thank you to every learner around the world for your trust and support!
 
+Image: <img width="1726" height="1124" alt="My student who is learning KoboToolbox" src="https://github.com/user-attachments/assets/43d8b03c-92dd-4e6d-a587-6e872799aa8a" />
+
+
 
 ## What You'll Learn
 
