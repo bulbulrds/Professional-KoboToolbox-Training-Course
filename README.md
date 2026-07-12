@@ -4,7 +4,7 @@
 
 [![Udemy](https://img.shields.io/badge/Udemy-Enroll%20Now-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/professional-kobotoolbox-training-course/)
 ![Students](https://img.shields.io/badge/Students-755+-brightgreen?style=for-the-badge)
-![Countries](https://img.shields.io/badge/Countries-82-blue?style=for-the-badge)
+![Countries](https://img.shields.io/badge/Countries-81-blue?style=for-the-badge)
 ![Rating](https://img.shields.io/badge/Rating-4.1★-orange?style=for-the-badge)
 ![Reviews](https://img.shields.io/badge/Reviews-57-yellow?style=for-the-badge)
 
@@ -23,7 +23,7 @@ The course covers everything from creating your first digital questionnaire to d
 
 📊 **755+ Students Enrolled**
 
-🌎 **Learners from 82 Countries**
+🌎 **Learners from 81 Countries**
 
 ⭐ **4.1/5 Average Rating**
 
